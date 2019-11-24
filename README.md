@@ -3,3 +3,4 @@
 
 - Sateesh Peri
 - Jiatian Wang
+- Erika Tapia
